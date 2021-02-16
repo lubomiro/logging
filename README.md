@@ -2,11 +2,11 @@
 
 ## 1. Enable Ansible logging
 
-![Example screenshot](./screens/1.jpg)
+![Example screenshot](./img/1.jpg)
 
 ## 2. Setup bookshelf app logging to bookshel.log file
 
-![Example screenshot](./screens/2.jpg)
+![Example screenshot](./img/2.jpg)
 
 ## 3. Created a new configuration files in the additional configuration directory /etc/google-fluentd/config.d and restart agent
 
@@ -54,6 +54,6 @@ EOF
 
 ## 4. Filter logs in Google Cloud Logging console
 
-![Example screenshot](./screens/4.jpg)
-![Example screenshot](./screens/5.jpg)
-![Example screenshot](./screens/6.jpg)
+![Example screenshot](./img/4.jpg)
+![Example screenshot](./img/5.jpg)
+![Example screenshot](./img/6.jpg)
