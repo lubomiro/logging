@@ -50,7 +50,7 @@ sudo tee /etc/google-fluentd/config.d/bookshelf.conf > /dev/null <<EOF
 EOF
 
 ```
-![Example screenshot](./screens/3.jpg)
+![Example screenshot](./img/3.jpg)
 
 ## 4. Filter logs in Google Cloud Logging console
 
