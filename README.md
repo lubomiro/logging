@@ -52,7 +52,7 @@ EOF
 ```
 ![Example screenshot](./img/3.jpg)
 
-## 4. Filter logs in Google Cloud Logging console
+## 4. New Filter logs in Google Cloud Logging console
 
 ![Example screenshot](./img/4.jpg)
 ![Example screenshot](./img/5.jpg)
