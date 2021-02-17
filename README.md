@@ -1,10 +1,10 @@
 # Google Clouds Logging
 
-## 1. Enable Ansible logging
+## 1. Enabled Ansible logging
 
 ![Example screenshot](./img/1.jpg)
 
-## 2. Setup bookshelf app logging to bookshel.log file
+## 2. Setuped bookshelf app logging to bookshel.log file
 
 ![Example screenshot](./img/2.jpg)
 
