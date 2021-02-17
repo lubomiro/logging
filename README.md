@@ -8,7 +8,7 @@
 
 ![Example screenshot](./img/2.jpg)
 
-## 3. Created a new configuration files in the additional configuration directory /etc/google-fluentd/config.d and restart agent
+## 3. Created new configuration files in the additional configuration directory /etc/google-fluentd/config.d and restart agent
 
 ```
 sudo tee /etc/google-fluentd/config.d/ansible.conf > /dev/null <<EOF
