@@ -4,7 +4,7 @@
 
 ![Example screenshot](./img/1.jpg)
 
-## 2. Setuped bookshelf app logging to bookshel.log file
+## 2. Setting bookshelf app logging to bookshel.log file
 
 ![Example screenshot](./img/2.jpg)
 
